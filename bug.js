@@ -1,0 +1,1 @@
+This bug occurs when using the Expo ImagePicker library.  The issue is that when selecting an image from the device's gallery, the returned image uri is sometimes incorrect or incomplete, leading to errors when trying to display or upload the image.  This is especially problematic when dealing with images from cloud storage or external sources.
